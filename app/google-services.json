@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948326314515",
+    "project_id": "snspro-3e603",
+    "storage_bucket": "snspro-3e603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948326314515:android:e9717b3f501728f14405e6",
+        "android_client_info": {
+          "package_name": "com.ecochallenge.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948326314515-ml4ioai7m73li3gs3rv3khc7v2vd1pa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiijrRyj-lkh7iSl1-1wz6DiihkzX8zN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948326314515-ml4ioai7m73li3gs3rv3khc7v2vd1pa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
