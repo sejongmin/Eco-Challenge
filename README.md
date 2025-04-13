@@ -3,7 +3,7 @@
 # Eco-Challenge
 
 
-**<h3>Sejong Univ. 소프트웨어융합대학 ECG 학술제</h3>**
+**<h3>Sejong Univ. 소프트웨어융합대학 ESG 학술제</h3>**
 
 <img src="https://github.com/user-attachments/assets/9b7df13e-b453-457d-a094-38f7722a9dc4" width="250"/>
 </div>
